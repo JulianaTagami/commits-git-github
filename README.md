@@ -1,5 +1,5 @@
-# Repositorio do Desafio de Projeto Git/Github
-Repositorio criado para o Desafio de Projeto
+# Challenge Repository Git/GitHub
+Repository created for project
 
 ## Links Uteis
 [Sintaxe Basica Makdown](https://www.markdownguide.org/basic-syntax/)
